@@ -31,14 +31,8 @@ Untuk tampilannya saya sudah pasang template admin `bootstrap v5` yaitu `sash ad
 #### :arrow_right: Set Up
 Buka Terminal di proyek folder Anda dan jalankan perintah dibawah ini:
 ```
-composer install
-```
-```
 php artisan storage:link
 ```
-#### :arrow_right: Import Database
-Import file database `db_inventoryweb.sql` yang ada di folder `database/db` ke phpmyadmin 
-
 #### :arrow_right: Jalankan Aplikasi
 ```
 php artisan serve
