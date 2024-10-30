@@ -27,13 +27,6 @@ Untuk tampilannya saya sudah pasang template admin `bootstrap v5` yaitu `sash ad
 * **jQuery**
 * **Datetime picker**
 
-## *:gear: Requirement*
-<p>
-<img alt="gambar" src="https://img.shields.io/badge/PHP%20-%5E8.1-green"/>
-<img alt="gambar" src="https://img.shields.io/badge/Node JS%20-%5E16.14.0-green"/>
-<img alt="gambar" src="https://img.shields.io/badge/Npm%20-%5E8.3.1-green"/>
-<img alt="gambar" src="https://img.shields.io/badge/Composer%20-%5E2.3.9-green"/>
-</p>
 
 ## *:rocket: Instalasi*
 #### :arrow_right: Clone Project / Download File
