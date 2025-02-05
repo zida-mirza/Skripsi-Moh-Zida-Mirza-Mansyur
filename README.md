@@ -20,7 +20,13 @@ Aplikasi ini bisa anda gunakan untuk mengontrol stock barang yang anda miliki se
 * **Setting Hak Akses user per Role**
 * **Setting Menu (bisa tambah menu atau bisa hapus menu)**
 
-
+## *Teknologi Yang Digunakan*
+* **Laravel 9**
+* **Bootstrap 5**
+* **jQuery 3**
+* **PHP 8.1**
+* **MariaDB**
+  
 #### :arrow_right: Set Up
 Buka Terminal di proyek folder Anda dan jalankan perintah dibawah ini:
 ```
